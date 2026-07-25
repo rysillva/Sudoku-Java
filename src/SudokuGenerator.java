@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class SudokuGenerator {
-
     private Sudoku sudoku;
     private Sudoku solucao;
     private SudokuSolver solver;
@@ -12,15 +11,10 @@ public class SudokuGenerator {
     }
 
     public Sudoku gerarNovoSudoku() {
-
         sudoku = new Sudoku();
-
         gerar(0, 0);
-
         solucao = sudoku.copiar();
-
         removerNumeros(40);
-
         return sudoku;
     }
 
@@ -59,12 +53,9 @@ public class SudokuGenerator {
                 if (gerar(proximaLinha, proximaColuna)) {
                     return true;
                 }
-
                 sudoku.setValor(linha, coluna, 0);
-
-            }
-
-        }
+       }
+}
 
         return false;
 
@@ -83,9 +74,6 @@ public class SudokuGenerator {
                 quantidade--;
 
             }
-
         }
-
     }
-
 }
