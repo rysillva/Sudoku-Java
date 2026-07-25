@@ -100,18 +100,21 @@ Funcionamento:
 ```text
 Sudoku-Java
 │
-├── img
-│ ├── Dica.PNG
-│ ├── Sudoku.PNG
-│ └── Verificar.PNG
 │
 └── src
-     ├── Main.java
-     ├── NumberDocument.java
-     ├── Sudoku.java
-     ├── SudokuCell.java
-     ├── SudokuFrame.java
-     ├── SudokuGenerator.java
-     └──SudokuPanel.java
+│   │ 
+│   ├── Main.java
+│   ├── NumberDocument.java
+│   ├── Sudoku.java
+│   ├── SudokuCell.java
+│   ├── SudokuFrame.java
+│   ├── SudokuGenerator.java
+│   └── SudokuPanel.java
+│
+└── img
+    ├── Dica.PNG
+    ├── Sudoku.PNG
+    └── Verificar.PNG
+
 
 ```
