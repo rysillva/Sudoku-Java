@@ -33,7 +33,7 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 
   Verificar
 
-  <img src="img/Dica.PNG" width="500">
+  <img src="img/Dica.PNG" width="300">
 
 ---
 
@@ -57,7 +57,7 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 ✔ Verificação de números repetidos nos blocos 3x3;  
 ✔ Identificação de erros no preenchimento.
 
-<img src="img/Verificar.PNG" width="500">
+<img src="img/Verificar.PNG" width="300">
 ---
 
 ## 🧠 Solução Automática
