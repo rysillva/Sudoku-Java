@@ -97,7 +97,7 @@ Funcionamento:
 ---
 
 # 📂 Estrutura do Projeto
-
+```text
 Sudoku-Java
 │
 ├── img
@@ -113,3 +113,5 @@ Sudoku-Java
      ├── SudokuFrame.java
      ├── SudokuGenerator.java
      └──SudokuPanel.java
+
+```
