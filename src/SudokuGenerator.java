@@ -23,7 +23,6 @@ public class SudokuGenerator {
     }
 
     private boolean gerar(int linha, int coluna) {
-
         if (linha == 9) {
             return true;
         }
@@ -35,41 +34,28 @@ public class SudokuGenerator {
             proximaColuna = 0;
             proximaLinha++;
         }
-
         ArrayList<Integer> numeros = new ArrayList<>();
-
         for (int i = 1; i <= 9; i++) {
             numeros.add(i);
         }
-
         Collections.shuffle(numeros);
-
         for (int numero : numeros) {
-
             if (solver.numeroValido(sudoku, linha, coluna, numero)) {
-
                 sudoku.setValor(linha, coluna, numero);
-
                 if (gerar(proximaLinha, proximaColuna)) {
                     return true;
                 }
                 sudoku.setValor(linha, coluna, 0);
        }
 }
-
-        return false;
-
+ return false;
     }
-
     private void removerNumeros(int quantidade) {
-
         while (quantidade > 0) {
-
             int linha = (int) (Math.random() * 9);
             int coluna = (int) (Math.random() * 9);
 
             if (sudoku.getValor(linha, coluna) != 0) {
-
                 sudoku.setValor(linha, coluna, 0);
                 quantidade--;
 
