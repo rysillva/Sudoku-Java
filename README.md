@@ -1,7 +1,7 @@
 # 🧩 Sudoku Java
 
 <p align="center">
-  <img src="img/Sudoku.PNG" width="450">
+  <img src="img/Sudoku.PNG" width="370">
 </p>
 
 <h3 align="center">
@@ -33,7 +33,7 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 
   Verificar
 
-  <img src="img/Dica.PNG" width="300">
+  <img src="img/Dica.PNG" width="250">
 
 ---
 
@@ -57,7 +57,7 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 ✔ Verificação de números repetidos nos blocos 3x3;  
 ✔ Identificação de erros no preenchimento.
 
-<img src="img/Verificar.PNG" width="300">
+<img src="img/Verificar.PNG" width="250">
 ---
 
 ## 🧠 Solução Automática
