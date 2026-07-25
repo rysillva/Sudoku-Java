@@ -32,9 +32,9 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 - Lógica de programação avançada.
 
   Verificar
-
+<p>
   <img src="img/Dica.PNG" width="250">
-
+</p>
 ---
 
 # 🚀 Funcionalidades
@@ -57,7 +57,8 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 ✔ Verificação de números repetidos nos blocos 3x3;  
 ✔ Identificação de erros no preenchimento.
 
-<img src="img/Verificar.PNG" width="250">
+<p><img src="img/Verificar.PNG" width="250"></p>
+
 ---
 
 ## 🧠 Solução Automática
