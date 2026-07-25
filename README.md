@@ -37,12 +37,12 @@ O principal objetivo deste projeto foi desenvolver uma aplicação completa em J
 
 ## 🎮 Jogabilidade
 
-✔ Interface gráfica para interação com o usuário;  
-✔ Tabuleiro Sudoku 9x9;  
-✔ Entrada de números nas células;  
-✔ Bloqueio de entradas inválidas;  
-✔ Controle de células preenchidas automaticamente;  
-✔ Reinício do jogo.
+ Interface gráfica para interação com o usuário;  
+ Tabuleiro Sudoku 9x9;  
+ Entrada de números nas células;  
+ Bloqueio de entradas inválidas;  
+ Controle de células preenchidas automaticamente;  
+ Reinício do jogo.
 
 ---
 
@@ -62,14 +62,6 @@ O projeto possui um solucionador automático utilizando o algoritmo:
 ### Backtracking
 
 O algoritmo realiza uma busca inteligente testando possibilidades até encontrar uma solução válida.
-
-Funcionamento:
-
-1. Procura uma célula vazia;
-2. Testa números possíveis;
-3. Verifica se o número respeita as regras do Sudoku;
-4. Avança para a próxima célula;
-5. Caso encontre um erro, retorna e testa outra possibilidade.
 
 ---
 
