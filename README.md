@@ -95,6 +95,11 @@ O algoritmo realiza uma busca inteligente testando possibilidades até encontrar
 
 ---
 
+BAIXAR SUDOKU:
+
+https://drive.google.com/drive/folders/1DRiPqazqtaMZD2ZNysQRs4NTOpR6YDYw?usp=sharing
+
+
 # 📂 Estrutura do Projeto
 ```text
 Sudoku-Java
