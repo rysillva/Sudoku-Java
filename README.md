@@ -92,13 +92,7 @@ O algoritmo realiza uma busca inteligente testando possibilidades até encontrar
 - Matrizes;
 - Algoritmos de busca;
 - Tratamento de entradas.
-
 ---
-
-BAIXAR SUDOKU:
-
-[https://drive.google.com/drive/folders/1DRiPqazqtaMZD2ZNysQRs4NTOpR6YDYw?usp=sharing](https://www.mediafire.com/file/0bs91svenia1ygu/SudokuJava.zip/file)
-
 
 # 📂 Estrutura do Projeto
 ```text
